@@ -45,4 +45,9 @@ By systematically filtering out extreme multi-million dollar outliers, this dist
 
 1. Clone this repository to your local system environment:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/financial-fraud-analytics.git](https://github.com/YOUR_USERNAME/financial-fraud-analytics.git)
+   git clone https://github.com/sky-000/Financial-Fraud-Analytics
+
+2. Download the data file from the kaggle :
+   ```bash
+   https://www.kaggle.com/datasets/sriharshaeedala/financial-fraud-detection-dataset
+ 
